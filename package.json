@@ -1,0 +1,20 @@
+{
+  "name": "stackkaro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.2.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export -o build/",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "next": {
+    "pages": "C:\\Users\\Shivani sinha\\Desktop\\STACKKARO (2)\\pages"
+  }
+}
